@@ -16,6 +16,11 @@
       ]
     },
     {
+      "type": "page-title",
+      "title": "Melhor matéria-prima",
+      "description": "Produtos com qualidade e ecologicamente corretas desenvolvidas pensando no bem estar do nosso planeta."
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/7.jpg"
     },
@@ -26,11 +31,6 @@
           "img": "/img/uploads/6.jpg"
         }
       ]
-    },
-    {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
     }
   ]
 }
