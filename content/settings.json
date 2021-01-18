@@ -1,7 +1,7 @@
 {
   "domain": "ecomplus-storefront.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#fff295",
+  "primary_color": "#f89fa8",
   "theme": {
     "bootswatch": "lux",
     "custom": "niche-flowers"
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#fff295",
+  "secondary_color": "#f89fa8",
   "icon": "/img/uploads/favicon.png",
   "store_id": 1117,
   "description": "My PWA Shop",
