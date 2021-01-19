@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.4084063b223a2d511b9ef92154c4fa20.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.645c68966e9810a0d22104f8f08e4218.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.5d6664ea6e58468e8b6170c2a6055e60.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.cfee842379e85792789f1f46ac387327.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.904dff5e8780a1d9b69c65870f4f57f0.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Dazzle",
+  "short_name": "Dazzie Clean",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "My PWA Shop",
+  "background_color": "#ffffff",
+  "theme_color": "#f89fa8"
+}
