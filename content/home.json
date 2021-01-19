@@ -23,15 +23,11 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/7.jpg"
+      "img": "/img/uploads/7.png"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/6.jpg"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/6.png"
     }
   ]
 }
